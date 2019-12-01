@@ -1,5 +1,3 @@
-package Probset3;
-
 public class ITunes{
 
   public static void main(String[] args){
